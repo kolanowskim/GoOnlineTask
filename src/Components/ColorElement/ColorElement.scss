@@ -1,0 +1,32 @@
+.colorElement-wrapper{
+    width: 130px;
+    max-width: 130px;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid lightgrey;
+    padding: 15px;
+    margin: 5px;
+    position: relative;
+}
+
+.colorElement-rectangle{
+    width: 100px;
+    height: 50px;
+}
+
+.colorElement-description{
+    margin: 5px;
+}
+
+.colorElement-button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: lightgray;
+    border: none;
+    cursor: pointer;
+    border-bottom-left-radius: 5px;
+}

@@ -1,0 +1,18 @@
+.colorsPanel-wrapper{
+    height: 600px;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.colorsPanel-inputs{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: 30px;
+
+}

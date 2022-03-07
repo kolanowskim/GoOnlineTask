@@ -1,0 +1,8 @@
+.colorsList-wrapper{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
